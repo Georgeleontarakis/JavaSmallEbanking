@@ -1,0 +1,11 @@
+type:PersonalAccount,iban:GR100202503111546001,primaryOwner:067688302,dateCreated:2025-03-01,rate:0.02,balance:942.1307817886596,coOwner:067688304
+type:PersonalAccount,iban:GR100202503111546002,primaryOwner:067688303,dateCreated:2025-03-01,rate:0.02,balance:1927.8767168603354
+type:PersonalAccount,iban:GR100202503111546003,primaryOwner:067688304,dateCreated:2025-03-01,rate:0.02,balance:3844.9315037991787
+type:PersonalAccount,iban:GR100202503111546004,primaryOwner:067688302,dateCreated:2025-03-01,rate:0.02,balance:841.8387173068357,coOwner:067688303
+type:PersonalAccount,iban:GR100202503111546005,primaryOwner:067688307,dateCreated:2025-03-01,rate:0.02,balance:15.8710158889386
+type:PersonalAccount,iban:GR100202503111546006,primaryOwner:067688306,dateCreated:2025-03-01,rate:0.02,balance:626.2562291460611,coOwner:067688303,coOwner:067688302
+type:PersonalAccount,iban:GR100202503111546007,primaryOwner:067688303,dateCreated:2025-03-01,rate:0.02,balance:25.043837943328956
+type:BusinessAccount,iban:GR200202503131719401,primaryOwner:090800700,dateCreated:2025-03-01,rate:0.03,balance:10026.303464064553,maintenanceFee:null
+type:BusinessAccount,iban:GR200202503131719402,primaryOwner:090800800,dateCreated:2025-03-01,rate:0.03,balance:20760.178037402216,maintenanceFee:null
+type:BusinessAccount,iban:GR200202503131719403,primaryOwner:090800900,dateCreated:2025-03-01,rate:0.03,balance:100263.03464064552,maintenanceFee:null
+type:BusinessAccount,iban:GR200202503131719404,primaryOwner:090800600,dateCreated:2025-03-01,rate:0.03,balance:7324.648473011823,maintenanceFee:null
